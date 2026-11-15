@@ -1,0 +1,6 @@
+{
+  "name": "MONO MONO — For Natalie Karaliyo",
+  "description": "A little world made for us. A romantic interactive digital scrapbook, love letter, poetry collection, and memory experience created for Natalie Karaliyo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
