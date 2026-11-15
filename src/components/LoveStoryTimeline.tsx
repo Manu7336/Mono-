@@ -187,9 +187,6 @@ export const LoveStoryTimeline: React.FC<LoveStoryTimelineProps> = ({
           <h2 className="font-serif-editorial mt-1 text-3xl font-semibold text-[#1A3326] sm:text-4xl lg:text-5xl text-balance">
             Our Story, Our Little World.
           </h2>
-          <p className="mt-2.5 text-sm text-[#1A3326]/75 sm:mt-3 sm:text-base">
-            Click any chapter below to fill in your personal dates, memories, and photos (you can add multiple photos to any memory!).
-          </p>
         </div>
 
         {/* Vertical Romantic Timeline */}
@@ -231,7 +228,8 @@ export const LoveStoryTimeline: React.FC<LoveStoryTimelineProps> = ({
                     <div className="paper-texture rounded-2xl border border-[#72B193]/50 p-4 shadow-md transition-shadow duration-300 hover:shadow-lg sm:rounded-3xl sm:p-6 lg:p-7">
                       <div className="flex items-center justify-between gap-2 text-xs text-[#1F7A56]">
                         <span className="font-mono tabular-nums">
-                          {String(idx + 1).padStart(2, '0')} · {item.promptHint}
+                          {String(idx + 1).padStart(2, '0')}
+                          {item.promptHint ? ` · ${item.promptHint}` : ''}
                         </span>
                         {!isEditing && (
                           <button

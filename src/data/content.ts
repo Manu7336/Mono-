@@ -598,7 +598,7 @@ export const INITIAL_CONTENT: RomanticContent = {
     {
       id: 'story-4',
       milestoneTitle: 'Our trip to Sogeri.',
-      promptHint: 'When my heart knew just how deep this was',
+      promptHint: '',
       date: '',
       memory: '',
       imageUrl: '/photos/s1.jpg',
@@ -626,7 +626,7 @@ export const INITIAL_CONTENT: RomanticContent = {
     {
       id: 'story-5',
       milestoneTitle: 'Time together with your family',
-      promptHint: 'Pure happiness from start to finish',
+      promptHint: '',
       date: '',
       memory: '',
       imageUrl: '/photos/h1.jpg',
@@ -653,7 +653,7 @@ export const INITIAL_CONTENT: RomanticContent = {
     {
       id: 'story-6',
       milestoneTitle: 'Our time together at Wildlife.',
-      promptHint: 'Our forever chapters yet to be written',
+      promptHint: '',
       date: '',
       memory: '',
       imageUrl: '/photos/w1.jpg',
@@ -737,7 +737,7 @@ export const INITIAL_CONTENT: RomanticContent = {
   finalLetter: {
     heading: 'Dear Natalie, My Mono ❤️',
     paragraphs: [
-      'My Mono, the love of my life, and the future momo to my kids.',
+      'My Mono, the love of my life, and the future mom to my kids.',
       "I honestly don't think words will ever be enough to express just how deeply I am in love with you. But today, I want to try. I want you to know how much you mean to me, how grateful I am to have you in my life, and how much I appreciate everything you have been to me. Thank you for always being there for me, especially during the times when I had nothing. Thank you for believing in me, trusting me, supporting me, and never giving up on me, even when things weren't easy. You have stood by me through so much, and I hope you know that I will never take that for granted.",
       "Sometimes, I sit back and think about how everything started, and it honestly makes me smile. I still remember the very first time I messaged you on Facebook and how we had our first conversation. I remember thinking to myself that you were one of the smartest girls I had ever come across. You were ambitious, driven, intelligent, and had such a beautiful heart. There was just something about you that immediately caught my attention. Ngl, I think I fell for you right there and then. I just knew I wanted to meet you in person as soon as possible lol.",
       "And then, just one week after chatting on Facebook, we finally met at Gordons. I remember noticing how confidently you spoke and how you carried yourself. There was something about you that made me realise you were a strong woman, not just in the way you presented yourself but in the way you thought and expressed yourself. I remember thinking that if we were ever going to build something serious and lasting together, I would need someone like you by my side. Someone with a pure heart, a strong mindset, ambition, and the courage to face whatever life throws at us. I didn't know exactly what the future had in store for us, but something inside me told me that you were someone worth holding on to.",
@@ -747,9 +747,9 @@ export const INITIAL_CONTENT: RomanticContent = {
       "And the best part? My family loved you too. They could see the kind of woman you were. They saw how intelligent, respectful, and caring you were, and I think they knew just as much as I did that you were someone special. Someone who would love me, look after me, challenge me to become a better man, and stand beside me through life.",
       "Nowww, after a few weeks to a month of dating, it was my turn to meet your family. THE ENGANS. Phewww! Hahahaha. I remember being a little nervous, but not too much. Then I finally got to meet your sisters, Ruthy and Rita, and some of your family at Club 22. I also got to meet Jonna and Merox, along with their beautiful kids, little Rosie and my bestie, little guy Joseph. And honestly, I loved all of them. Your family were so welcoming and lovely to me, and I could tell they wanted the best for you. They were happy to see us together, and that meant a lot to me.",
       'BUTTTTTT... then came Paps GK. HAHAHAHA!',
-      "Mono, I don't think you understand how scared I was to meet your dad. Especially after hearing all the stories you had told me about him. I still remember that one time he caught us at Gordons Market and screamed at you in front of everyone. LOL! After hearing about that, I was honestly terrified hahaha. I was probably thinking about a hundred different ways that first meeting could go.",
+      "Mono, I don't think you understand how scared I was to meet your dad. Especially after hearing all the stories you had told me about him. I still remember that one time he caught us at Gordons Market and screamed at you in front of everyone. LOL!",
       'But as time went by, things slowly changed. He eventually accepted me, understood that my intentions towards you were genuine, and realised that I wanted nothing but the best for you. He allowed us to continue building our relationship, and I eventually got to meet him a couple more times. Over time, we developed a mutual understanding and respect for one another.',
-      'Looking back, I think Papa GK and I understood one very important thing about each other: we both wanted the same thing. We both wanted to see you happy. We both wanted you to be loved, protected, respected, and taken care of. And in our own ways, we both wanted the very best for you. I think that understanding brought us to a place where we could respect one another, and I will always appreciate that.',
+      'Looking back, I think Paps GK and I understood one very important thing about each other: we both wanted the same thing. We both wanted to see you happy. We both wanted you to be loved, protected, respected, and taken care of. And in our own ways, we both wanted the very best for you. I think that understanding brought us to a place where we could respect one another, and I will always appreciate that.',
       "And then came everything else. The beautiful memories, the laughter, the adventures, and all the little moments that made us who we are today. Of course, it wasn't always sunshine and rainbows. We went through our fair share of ups and downs. There were times when things were emotionally difficult, mentally exhausting, and even financially challenging. There were moments when life tested us in ways we probably never expected.",
       'But through it all, one thing remained constant: **we never stopped choosing each other.**',
       "We stayed by each other's side. We supported one another when things got difficult, picked each other up when one of us was down, and continued moving forward together. We may not have had everything figured out, and we may not have always gotten everything right, but we always had each other. And to me, that is what makes our love so special. It isn't just about loving each other when life is beautiful and everything is going our way. It's about holding on to each other when life gets difficult, choosing to understand one another, and continuing to fight for the love we share.",
